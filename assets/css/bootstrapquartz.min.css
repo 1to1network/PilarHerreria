@@ -9191,7 +9191,7 @@ fieldset:disabled .btn {
 
 .bg-dark {
     --bs-bg-opacity: 0.1;
-   background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important 
+    background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important
 }
 
 .bg-black {
@@ -12655,7 +12655,7 @@ fieldset:disabled .btn {
 body {
     /*background-image: linear-gradient(242deg, #9029ef, #2958ef, #29daef)*/
     background-image: url(/images/fondofoto.jpg);
-    
+
 }
 
 .table-secondary {

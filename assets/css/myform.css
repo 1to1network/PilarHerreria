@@ -4188,7 +4188,6 @@ fieldset:disabled .btn {
     padding-left: 0;
     margin-bottom: 0;
     list-style: none
-
 }
 
 .nav-link {
@@ -4199,7 +4198,6 @@ fieldset:disabled .btn {
     color: var(--bs-nav-link-color);
     text-decoration: none;
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out
-
 }
 
 @media (prefers-reduced-motion:reduce) {
@@ -9194,7 +9192,7 @@ fieldset:disabled .btn {
 
 .bg-dark {
     --bs-bg-opacity: 0.9;
-   background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important 
+    background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important
 }
 
 .bg-black {
@@ -12656,8 +12654,8 @@ fieldset:disabled .btn {
 }
 
 body {
-   /* background-image: linear-gradient(264deg, #79254A, #795C64, #79927D) */
-   background-image: url(/images/fondoform.jpg);
+    /* background-image: linear-gradient(264deg, #79254A, #795C64, #79927D) */
+    background-image: url(/images/fondoform.jpg);
 }
 
 .table-secondary {
