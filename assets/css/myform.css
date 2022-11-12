@@ -4187,7 +4187,7 @@ fieldset:disabled .btn {
     flex-wrap: wrap;
     padding-left: 0;
     margin-bottom: 0;
-    list-style: none
+    list-style: none;
 }
 
 .nav-link {
@@ -4197,12 +4197,12 @@ fieldset:disabled .btn {
     font-weight: var(--bs-nav-link-font-weight);
     color: var(--bs-nav-link-color);
     text-decoration: none;
-    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
 }
 
 @media (prefers-reduced-motion:reduce) {
     .nav-link {
-        transition: none
+        transition: none;
     }
 }
 
